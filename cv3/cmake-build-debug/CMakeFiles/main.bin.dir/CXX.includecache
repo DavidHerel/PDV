@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv3/integrate.cpp
+integrate.h
+/home/fuji/PDV/cv3/integrate.h
+omp.h
+-
+cmath
+-
+
+/home/fuji/PDV/cv3/integrate.h
+functional
+-
+

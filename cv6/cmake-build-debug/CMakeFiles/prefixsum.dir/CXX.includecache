@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv6/_prefixsum/prefixsum.cpp
+prefixsum.h
+/home/fuji/PDV/cv6/_prefixsum/prefixsum.h
+string
+-
+vector
+-
+chrono
+-
+
+/home/fuji/PDV/cv6/_prefixsum/prefixsum.h
+cstdlib
+-
+chrono
+-
+iostream
+-
+omp.h
+-
+vector
+-
+cmath
+-
+

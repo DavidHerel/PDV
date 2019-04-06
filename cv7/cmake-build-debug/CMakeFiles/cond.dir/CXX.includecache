@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv7/cond.cpp
+iostream
+-
+chrono
+-
+vector
+-
+cmath
+-
+cstdlib
+-
+immintrin.h
+-
+

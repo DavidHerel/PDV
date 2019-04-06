@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/hw02/SumsOfVectors.cpp
+iostream
+-
+numeric
+-
+algorithm
+-
+SumsOfVectors.h
+/home/fuji/PDV/hw02/SumsOfVectors.h
+
+/home/fuji/PDV/hw02/SumsOfVectors.h
+vector
+-
+

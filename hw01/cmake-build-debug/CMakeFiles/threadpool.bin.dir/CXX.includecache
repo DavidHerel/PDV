@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/hw01/ThreadPool.h
+list
+-
+thread
+-
+vector
+-
+iostream
+-
+condition_variable
+-
+
+/home/fuji/PDV/hw01/main.cpp
+iostream
+-
+list
+-
+random
+-
+ThreadPool.h
+/home/fuji/PDV/hw01/ThreadPool.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cpu_info.cpp
+
+/home/fuji/PDV/cpu_info.h
+
+/home/fuji/PDV/magic.cpp
+cstdio
+-
+chrono
+-
+cmath
+-
+omp.h
+-
+timing.h
+/home/fuji/PDV/timing.h
+cpu_info.h
+/home/fuji/PDV/cpu_info.h
+
+/home/fuji/PDV/timing.h
+

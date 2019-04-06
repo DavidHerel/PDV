@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/hw03/bst_tree.cpp
+functional
+-
+bst_tree.h
+/home/fuji/PDV/hw03/bst_tree.h
+
+/home/fuji/PDV/hw03/bst_tree.h
+atomic
+-
+

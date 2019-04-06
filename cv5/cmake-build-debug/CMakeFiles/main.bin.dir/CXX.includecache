@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv5/decompose.cpp
+decompose.h
+/home/fuji/PDV/cv5/decompose.h
+cmath
+-
+atomic
+-
+iostream
+-
+limits
+-
+
+/home/fuji/PDV/cv5/decompose.h
+functional
+-
+vector
+-
+

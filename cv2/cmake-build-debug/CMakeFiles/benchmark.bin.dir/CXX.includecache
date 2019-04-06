@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv2/PDVCrypt.h
+cstdlib
+-
+fstream
+-
+vector
+-
+
+/home/fuji/PDV/cv2/decryption.cpp
+vector
+-
+thread
+-
+mutex
+-
+atomic
+-
+decryption.h
+/home/fuji/PDV/cv2/decryption.h
+
+/home/fuji/PDV/cv2/decryption.h
+vector
+-
+string
+-
+PDVCrypt.h
+/home/fuji/PDV/cv2/PDVCrypt.h
+

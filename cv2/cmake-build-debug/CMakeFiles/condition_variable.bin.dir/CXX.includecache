@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv2/condition_variable.cpp
+thread
+-
+mutex
+-
+iostream
+-
+condition_variable
+-
+cstdlib
+-
+unistd.h
+-
+

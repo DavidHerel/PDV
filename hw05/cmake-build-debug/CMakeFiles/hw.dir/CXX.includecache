@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/hw05/sort.cpp
+sort.h
+/home/fuji/PDV/hw05/sort.h
+iostream
+-
+
+/home/fuji/PDV/hw05/sort.h
+vector
+-
+algorithm
+-
+iostream
+-
+

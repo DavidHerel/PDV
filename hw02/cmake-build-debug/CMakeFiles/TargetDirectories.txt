@@ -1,0 +1,4 @@
+/home/fuji/PDV/hw02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fuji/PDV/hw02/cmake-build-debug/CMakeFiles/hw.bin.dir
+/home/fuji/PDV/hw02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fuji/PDV/hw02/cmake-build-debug/CMakeFiles/hw.dir

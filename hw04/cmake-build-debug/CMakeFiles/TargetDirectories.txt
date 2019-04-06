@@ -1,0 +1,3 @@
+/home/fuji/PDV/hw04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fuji/PDV/hw04/cmake-build-debug/CMakeFiles/DatabaseQueries.dir
+/home/fuji/PDV/hw04/cmake-build-debug/CMakeFiles/edit_cache.dir

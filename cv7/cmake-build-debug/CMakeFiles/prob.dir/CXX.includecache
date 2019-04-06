@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv7/avx_mathfun.h
+immintrin.h
+-
+
+/home/fuji/PDV/cv7/prob.cpp
+chrono
+-
+vector
+-
+cmath
+-
+cstdlib
+-
+immintrin.h
+-
+iostream
+-
+avx_mathfun.h
+/home/fuji/PDV/cv7/avx_mathfun.h
+
