@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuji/PDV/cv8/multiply.cpp
+multiply.h
+/home/fuji/PDV/cv8/multiply.h
+string
+-
+vector
+-
+iostream
+-
+sparse.h
+/home/fuji/PDV/cv8/sparse.h
+
+/home/fuji/PDV/cv8/multiply.h
+sparse.h
+/home/fuji/PDV/cv8/sparse.h
+
+/home/fuji/PDV/cv8/sparse.h
+vector
+-
+cmath
+-
+iostream
+-
+
